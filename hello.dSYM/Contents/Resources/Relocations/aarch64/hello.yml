@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nahome/inet 3101 /hello'
+relocations:     []
+...
